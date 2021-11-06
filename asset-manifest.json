@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/slp-treasury/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/slp-treasury/static/js/main.9550a089.chunk.js",
+    "main.js.map": "/slp-treasury/static/js/main.9550a089.chunk.js.map",
+    "runtime-main.js": "/slp-treasury/static/js/runtime-main.335a4a66.js",
+    "runtime-main.js.map": "/slp-treasury/static/js/runtime-main.335a4a66.js.map",
+    "static/js/2.e1f8b107.chunk.js": "/slp-treasury/static/js/2.e1f8b107.chunk.js",
+    "static/js/2.e1f8b107.chunk.js.map": "/slp-treasury/static/js/2.e1f8b107.chunk.js.map",
+    "static/js/3.b21d0882.chunk.js": "/slp-treasury/static/js/3.b21d0882.chunk.js",
+    "static/js/3.b21d0882.chunk.js.map": "/slp-treasury/static/js/3.b21d0882.chunk.js.map",
+    "index.html": "/slp-treasury/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/slp-treasury/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.e1f8b107.chunk.js.LICENSE.txt": "/slp-treasury/static/js/2.e1f8b107.chunk.js.LICENSE.txt",
+    "static/media/axie_bg.5a99ec20.jpg": "/slp-treasury/static/media/axie_bg.5a99ec20.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.335a4a66.js",
+    "static/js/2.e1f8b107.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.9550a089.chunk.js"
+  ]
+}
